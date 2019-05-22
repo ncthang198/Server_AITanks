@@ -1,0 +1,25 @@
+{
+  "name": "game_server",
+  "version": "1.0.0",
+  "description": "Chạy file PsExec64.exe lần đầu và accept licence!",
+  "main": "app.js",
+  "dependencies": {
+    "config": "^3.1.0",
+    "socket.io-client": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ncthang198/aitanks2019.git"
+  },
+  "author": "Thang Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ncthang198/aitanks2019/issues"
+  },
+  "homepage": "https://github.com/ncthang198/aitanks2019#readme"
+}
