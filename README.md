@@ -1,2 +1,3 @@
-Chạy file PsExec64.exe lần đầu và accept licence!
-Để chạy server: vào thư mục chứa project: chạy lệnh npm start
+1. Chạy file PsExec64.exe lần đầu và accept licence!
+2. Cài đặt thư viện: "npm i"
+2. Để chạy server: "npm start"
